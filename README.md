@@ -10,4 +10,4 @@ There are several methods to compile and run this code:
 
 `Note: For a better visualization, you can minimize the range of the randomly generated values in main.c at every rand().`
 
-`Note: when generating random values there is a chace where another employee can appear in order for the books to be distributed`
+`Note: when generating random values there is a chance where another employee can appear in order for the books to be distributed`
