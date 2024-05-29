@@ -7,4 +7,5 @@
 * Using CMake(`https://cmake.org/download/`)
 
 `Note: If u want to see just a version of the code ( meaning the manual imput or randomly generated) you can put /* before the printf of the choices and */ after the scanf of the variable choices, than type choices = [number coresponding to you choice];`
+
 `Note: For a better visualization, you can minimize the range of the randomly generated values in main.c at every rand().`
